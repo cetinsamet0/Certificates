@@ -1,4 +1,4 @@
-Sertifikalarım 📜 <br>
+<b>Sertifikalarım 📜 <br>
 Bu repo, tamamladığım çeşitli kurslar, eğitimler ve aldığım sertifikaların dijital kopyalarını barındırmaktadır. Burada bulunan sertifikalar, profesyonel gelişimimi ve teknik becerilerimi gösteren belgeler olarak kullanılabilir. Sertifikalarımı paylaşmak ve başkalarıyla kolayca erişilebilir kılmak amacıyla bu repository'yi oluşturuyorum.
 
 🧑‍💻 Sertifikalar <br>
